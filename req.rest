@@ -1,0 +1,7 @@
+POST http://localhost/api/shorturl
+
+Content-Type: application/json
+
+{
+    "original_url" : "http://google.co.in"
+}
